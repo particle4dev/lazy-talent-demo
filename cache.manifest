@@ -1,0 +1,53 @@
+CACHE MANIFEST
+#Application:zlazytalent, Version:0.0.1, Timestamp:1359724502934
+
+
+# Explicitly cached entries
+CACHE:
+jquery-1.8.3.min.js
+underscore-min.js
+bootstrap.js
+theme/tmp.css
+d8-0.2.0.min.js
+jquery_mobile.js
+ui.js
+jquery_mobile_plugins.js
+theme/jquery_mobile_plugins.css
+config_application.js
+ui_application.js
+core_application.js
+plugin_jquery.js
+theme/plugin_jquery.css
+theme/images/blank.gif
+theme/images/linkedin_icon.jpg
+theme/images/facebook_icon.png
+theme/images/100812_manager.jpg
+theme/images/Icon-72.png
+theme/images/appicon.png
+theme/images/Icon.png
+theme/images/bg_02.jpg
+theme/images/talent-avatar.png
+theme/images/recruiter-avatar.png
+theme/images/Icon@2x.png
+theme/images/bg_01.jpg
+theme/images/arrow_l_w.png
+theme/images/phone_icon.png
+theme/style.css
+theme/jquery.mobile-1.2.0.min.css
+theme/images/icons-18-black.png
+theme/images/icons-36-black.png
+theme/images/icons-36-white.png
+theme/images/ajax-loader.gif
+theme/images/icons-18-white.png
+core.js
+zlazytalent_App.js
+
+
+# Resources that require the device/user to be online.
+NETWORK:
+myServer
+myServer2
+*
+
+# Fallback resources 
+FALLBACK:
